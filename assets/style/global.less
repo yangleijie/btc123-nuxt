@@ -1,0 +1,208 @@
+#__btc,
+#__layout {
+  height: 100%;
+}
+
+article,
+aside,
+blockquote,
+body,
+button,
+code,
+dd,
+details,
+div,
+dl,
+dt,
+fieldset,
+figcaption,
+figure,
+footer,
+form,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+header,
+hgroup,
+hr,
+input,
+legend,
+li,
+menu,
+nav,
+ol,
+p,
+pre,
+section,
+td,
+textarea,
+th,
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+a:focus {
+  text-decoration: none;
+}
+
+.content {
+  width: 1230px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.card {
+  &:not(:first-child) {
+    margin-top: 20px;
+  }
+}
+
+.ant-card {
+  border-radius: 0;
+  &:not(:first-child) {
+    margin-top: 20px;
+  }
+  &-head {
+    border-radius: 0;
+    padding: 0 20px;
+    border-bottom: none;
+    &-wrapper {
+      border-bottom: 1px solid #e8e8e8;
+      &:empty {
+        display: none;
+      }
+    }
+    &-title {
+      padding-top: 16px;
+      padding-bottom: 12px;
+      font-weight: 600;
+      font-size: 16px;
+    }
+  }
+  &-body {
+    padding: 10px 20px;
+  }
+  &-extra {
+    padding: 0;
+  }
+}
+
+.ant-table {
+  &-small {
+    border: none;
+    .ant-table-thead > tr > th {
+      font-size: 12px;
+    }
+    .ant-table-tbody {
+      > tr {
+        > td {
+          border-bottom: 0;
+          padding: 12px 8px !important;
+        }
+      }
+    }
+  }
+  .ant-table-thead > tr > th {
+    color: #999999;
+    font-weight: normal;
+  }
+  .ant-table-tbody {
+    > tr {
+      &:last-child {
+        > td {
+          border-bottom: 0;
+        }
+      }
+      &:hover:not(.ant-table-expanded-row) {
+        > td {
+          background-color: #fafafa;
+        }
+      }
+    }
+  }
+  &-body {
+    margin: 0 !important;
+  }
+  &-thead {
+    tr th {
+      background-color: #f6f6f6 !important;
+      border-bottom: none !important;
+      border-radius: 0 !important;
+    }
+  }
+}
+
+.ant-tabs {
+  .ant-tabs {
+    &-large-bar {
+      .ant-tabs {
+        &-tab {
+          padding: 16px 0;
+        }
+        &-nav-container {
+          font-size: 16px;
+        }
+      }
+    }
+    &-tab {
+      padding: 16px 0;
+    }
+    &-nav {
+      .ant-tabs-tab {
+        font-size: 16px;
+        &:hover,
+        &-active {
+          color: #101010;
+          font-weight: 600;
+        }
+      }
+    }
+  }
+}
+
+// 分页居中
+.ant-table-pagination.ant-pagination {
+  text-align: center;
+  float: none;
+}
+.ant-pagination {
+  text-align: center;
+}
+
+// .ant-avatar {
+//   background-image: url('http://static.pulsar.link/loading.png?x-oss-process=image/interlace,1/crop,w_88,h_88,g_center/quality,q_90/format,jpg');
+//   background-size: cover;
+//   background-position: 50%;
+//   background-repeat: no-repeat;
+// }
+
+// 用户微信分享
+.wechat_share {
+  background: #fff;
+  .ant-tooltip-inner {
+    background-color: #fff;
+  }
+  .ant-tooltip-arrow {
+    border-left-color: #fff;
+  }
+  img {
+    width: 120px;
+  }
+  p {
+    color: #333;
+    font-size: 12px;
+    text-align: center;
+    margin: 0px;
+  }
+}

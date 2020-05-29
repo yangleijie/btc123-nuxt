@@ -1,0 +1,313 @@
+{
+    "menu": {
+        "home": "首页",
+        "currency": "数字货币",
+        "exchange": "交易所",
+        "news": "新闻",
+        "flash": "快讯",
+        "activity": "活动",
+        "nav": "比特币交易所",
+        "search": "搜索",
+        "service": "创投服务",
+        "signin": "登录",
+        "signup": "注册",
+        "about": "关于我们",
+        "contact": "联系我们",
+        "feedback": "意见反馈",
+        "copyright": "版权声明",
+        "income": "我的收益",
+        "comment": "我的评论",
+        "favorite": "我的收藏",
+        "optional": "我的自选",
+        "security": "账号安全",
+        "logout": "退出登录"
+    },
+    "reward": {
+        "read": "阅读奖励",
+        "comment": "评论奖励",
+        "share": "分享奖励"
+    },
+    "text": {
+        "more": "更多",
+        "loading": "加载中...",
+        "nomore": "没有更多了",
+        "site": "网址导航",
+        "from": "来源",
+        "rcmd": "推荐",
+        "comment": "评论"
+    },
+    "brief": "快讯",
+    "common": {
+        "tel": "手机号码",
+        "email": "邮箱",
+        "wechat": "微信",
+        "weibo": "微博",
+        "please": "请",
+        "for": "后参与评论",
+        "guess": "相关推荐",
+        "featured": {
+            "platform": "严选交易所",
+            "medias": "严选媒体",
+            "project": "严选项目",
+            "community": "严选社群",
+            "kol": "严选KOL"
+        },
+        "comment": {
+            "submit": "发表回复",
+            "reply": "回复",
+            "replying": "正在回复",
+            "collapse": "收起回复",
+            "tips": "发个友善的评论见证当下"
+        }
+    },
+    "home": {
+        "platform": {
+            "name": "交易所",
+            "lastPrice": "最新成交价",
+            "change": "实时涨跌",
+            "change24H": "24H涨跌",
+            "turnover": "24H成交额",
+            "vol": "24H成交量"
+        },
+        "hot": {
+            "title": "热门行情",
+            "symbol": "币种",
+            "price": "当前价格",
+            "change": "涨跌幅"
+        },
+        "keyword": "热门关键字",
+        "featured": {
+            "title": "严选项目",
+            "platform": "交易所",
+            "medias": "媒体",
+            "project": "项目",
+            "community": "社群",
+            "kol": "KOL"
+        }
+    },
+    "coin": {
+        "tab": {
+            "all": "所有",
+            "top": "涨幅榜",
+            "drop": "跌幅榜"
+        },
+        "symbols": "数字货币列表",
+        "apply": "申请收录",
+        "marketCap": "币种流通总市值",
+        "vol": "24H交易总额",
+        "total": "共{value}个币种",
+        "table": {
+            "symbol": "币种",
+            "total": "总发行量",
+            "circulation": "流通量",
+            "pct": "流通占比",
+            "value": "市值",
+            "price": "价格",
+            "turnover": "24H成交额",
+            "change": "24H涨跌幅",
+            "platform": "交易所"
+        },
+        "detail": {
+            "high": "最高",
+            "low": "最低",
+            "marketCap": "流通市值",
+            "circulation": "流通量",
+            "turnover": "24H成交额",
+            "ratio": "占全球总市值",
+            "rate": "流通率",
+            "turnoverRatio": "换手率",
+            "date": "发布时间",
+            "website": "官网",
+            "whitepapaer": "白皮书",
+            "wallet": "钱包下载",
+            "pairs": "交易对",
+            "from": "数据来源",
+            "txRatio": "交易对成交额占比",
+            "tab": {
+                "exchange": "交易所",
+                "price": "价格",
+                "vol": "成交量",
+                "turnover": "成交额",
+                "ratio": "成交额占比",
+                "operation": "操作"
+            }
+        }
+    },
+    "exchange": {
+        "title": "交易平台列表",
+        "table": {
+            "platform": "交易所",
+            "turnover": "24H成交额",
+            "type": "交易类型",
+            "pairs": "交易对",
+            "nation": "国家",
+            "global": "全球"
+        },
+        "detail": {
+            "home": "首页",
+            "exchange": "交易所",
+            "text": "详情",
+            "pairs": "交易对",
+            "from": "数据来源",
+            "txRatio": "交易对成交额占比",
+            "turnover": "24H成交额",
+            "website": "官网",
+            "table": {
+                "pairs": "交易对",
+                "price": "价格",
+                "vol": "成交量",
+                "turnover": "成交额",
+                "ratio": "成交额占比",
+                "operation": "操作"
+            }
+        }
+    },
+    "news": {
+        "detail": {
+            "home": "首页",
+            "news": "新闻",
+            "text": "正文",
+            "favorite": "收藏",
+            "comment": "评论",
+            "something": "说点什么吧~",
+            "get": "获得阅读奖励",
+            "geting": "获取奖励中...",
+            "after": "后"
+        }
+    },
+    "flash": {
+        "title": "7x24H快讯",
+        "exclusive": "独家",
+        "share": "分享",
+        "source": "来源"
+    },
+    "search": {
+        "input": "输入关键字进行搜索",
+        "submit": "站内搜索",
+        "tab": {
+            "news": "资讯",
+            "currency": "币种",
+            "exchange": "交易平台",
+            "flash": "快讯"
+        }
+    },
+    "service": {
+        "year": "8年创投服务",
+        "leader": "助力领跑区块链时代",
+        "after": "BTC123历经8年发展沉淀，凭借强大软硬实力<br>为小型创业公司、中大型规模企业提供一整套区块链应用技术业务支撑<br>构建一站式生态体系，引领行业未来。",
+        "review": "项目考察",
+        "reviewDesc": "项目洽谈、成立团队、内容整理、项目立项",
+        "analysis": "行业分析",
+        "analysisDesc": "专业分析、精准定位、总结诉求",
+        "collation": "需求梳理",
+        "collationDesc": "资源整合、可行性判定、依托平台优势，助力项目需求最终达成",
+        "plan": "方案制定",
+        "planDesc": "确认产品方向，输出解决方案，行成文档，定稿",
+        "capital": "资本助力",
+        "capitalDesc": "完整资本投资体系，保障项目落地、助力企业成功",
+        "brand": "品牌建设",
+        "brandDesc": "专业提供白皮书撰写、项目构建、品牌策划、社群推广",
+        "guidance": "技术指导",
+        "guidanceDesc": "技术入股、技术入股+技术孵化、技术入股+种子投资",
+        "transaction": "辅助交易",
+        "transactionDesc": "交易所资源引荐、资本运作资深指导、交易所上市辅助",
+        "market": "市值管理",
+        "marketDesc": "价值塑造、价值描述、价值传播、价值实现，帮助公司建立长效机构",
+        "promotion": "拓展推广",
+        "promotionDesc": "行业峰会、圆桌会议、论坛活动、海外推广",
+        "surporting": "技术支持",
+        "surportingDesc": "拥有资深技术团队，提供点对点、一对一全力指导",
+        "promotion2": "拓展推广",
+        "promotion2Desc": "专业行情数据已覆盖美、欧、日、韩等多个国家及地区，为海内外近17亿用户提供数字货币和区块链最新资讯",
+        "offline": "线下推广",
+        "offlineDesc": "行业峰会、圆桌会议、论坛活动、海外推广提升企业知名度与品牌形象",
+        "welcome": "欢迎洽谈·合作共赢",
+        "cooperate": "商务合作"
+    },
+    "user": {
+        "all": "全部",
+        "today": "今天",
+        "yesterday": "昨天",
+        "week": "最近一周",
+        "month": "最近一个月",
+        "lastMonth": "最近三个月",
+        "transfer": "转出",
+        "linke": "请使用 LINK-E 转出 TV",
+        "latestReward": "最新奖励",
+        "activeReward": "活跃奖励",
+        "interest": "余额年化利息",
+        "type": "类型",
+        "time": "时间",
+        "amount": "金额",
+        "news": "资讯",
+        "commented": "评论了",
+        "delete": "删除",
+        "favorite": "我的收藏",
+        "optional": "我的自选",
+        "pairs": "交易对",
+        "price": "价格",
+        "vol": "成交量",
+        "turnover": "成交额",
+        "change": "24H涨跌幅",
+        "operation": "操作",
+        "info": "基础信息",
+        "avatar": "头像",
+        "modify": "修改",
+        "changeAvatar": "修改头像",
+        "tips": "不超过2mb，支持jpg、png、jpeg等格式",
+        "nickname": "昵称",
+        "sex": "性别",
+        "male": "男",
+        "female": "女",
+        "secret": "保密",
+        "intro": "简介",
+        "save": "保存",
+        "safe": "账户安全",
+        "tel": "联系电话",
+        "email": "邮箱",
+        "binding": "绑定",
+        "password": "密码",
+        "changePassword": "修改登录密码",
+        "txPassword": "交易密码",
+        "kyc": "实名认证",
+        "set": "设置",
+        "seted": "已设置",
+        "unset": "未设置",
+        "view": "查看",
+        "review": "审核中",
+        "certificated": "已认证",
+        "certificate": "认证",
+        "uncertified": "未认证",
+        "withdrawal": "提现需要使用交易密码",
+        "wallet": "通过实名认证后，您获得的奖励可提现至钱包",
+        "confirm": "确定",
+        "cancel": "取消",
+        "captcha": "获取验证码",
+        "front": "身份证正面",
+        "back": "身份证反面",
+        "hand": "手持身份证",
+        "linke2": "请使用 LINK-E 设置交易密码"
+    },
+    "about": {
+        "project": "项目概况",
+        "roadmap": "发展路程",
+        "desc": "BTC123（www.btc123.com）成立于2011年，是香港比特123全球传媒科技有限公司管理运营的一站式区块链产业服务平台，总部位于中国香港。BTC123历经8年的发展沉淀，业务现已涵盖创业孵化、技术扶持、超级课堂、行业峰会、行情数据、块讯分析等多元产品和优质服务，致力于打造区块链一站式生态体系，引领行业发展未来。 作为国内最早成立的区块链一站式产业服务平台，BTC123以股权投资、极速融资和产品推广等创业支撑服务，为众多企业用户定制区块链整体解决方案，助力创业孵化；以行业内最全面、最精准的行情数据分析，为海内外近7亿用户提供数字货币和区块链相关资讯与数据，现已覆盖美国、欧洲、日本、韩国等多个国家与地区"
+    },
+    "contact": {
+        "project": "项目概况",
+        "email": "企业邮箱",
+        "tel": "联系电话",
+        "time": "工作时间",
+        "am": "上午",
+        "pm": "下午",
+        "cooperation": "商务合作",
+        "contact": "联系人",
+        "follow": "关注我们"
+    },
+    "feedback": {
+        "content": "反馈内容",
+        "email": "邮箱地址",
+        "submit": "提交",
+        "desc": "请在下面填写您遇到的问题或意见建议，并留下您的联系方式， 我们将为您提供更好的产品和服务。"
+    }
+}
