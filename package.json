@@ -35,7 +35,7 @@
     "vue-cropper": "^0.4.9",
     "vue-infinite-scroll": "^2.0.2",
     "vue-lazyload": "^1.2.6",
-    "ws": "^6.2.0"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "0.0.1",
